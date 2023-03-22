@@ -8,4 +8,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
-<img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/RubyonRails-CC0000?style=for-the-badge&logo=RubyonRails&logoColor=white">
+<img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
